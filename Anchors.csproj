@@ -213,12 +213,6 @@
     <None Include="Resources\wfEnginer.vsd" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\wfEnginer\wfEnginer.csproj">
-      <Project>{DD6ABC29-D054-4DB6-8935-D895AC229CA9}</Project>
-      <Name>wfEnginer</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
