@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anchors", "Anchors.csproj", "{861B99E2-BC73-4D40-A695-2A6A43C7F286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfEnginer", "..\wfEnginer\wfEnginer.csproj", "{DD6ABC29-D054-4DB6-8935-D895AC229CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861B99E2-BC73-4D40-A695-2A6A43C7F286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861B99E2-BC73-4D40-A695-2A6A43C7F286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861B99E2-BC73-4D40-A695-2A6A43C7F286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861B99E2-BC73-4D40-A695-2A6A43C7F286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6ABC29-D054-4DB6-8935-D895AC229CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6ABC29-D054-4DB6-8935-D895AC229CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6ABC29-D054-4DB6-8935-D895AC229CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6ABC29-D054-4DB6-8935-D895AC229CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
